@@ -109,5 +109,5 @@ README.md                       # Project summary
 
 ## 🧑‍💻 Author
 
-**Your Name**  
+**Hadis**  
 [LinkedIn](https://linkedin.com/in/Hadis-Zare) | [GitHub](https://github.com/HadisZare12) | [Email](mailto:profi.hadiszare@gmail.com)
